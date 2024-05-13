@@ -1,5 +1,4 @@
-<h1>Hi, I'm Zavery! <br/><a href="https://github.com/ZaveryP">IT Enthusiast</a>, <a href="https://www.linkedin.com/in//">Aspiring IT Technician</a>, <a href="https://www.youtube.com/">YouTube Documentor</a></h1>
-
+<h1>Hi, I'm Zavery! <br/><a href="https://github.com/ZaveryP">IT Enthusiast</a>, <a href="https://www.linkedin.com/in//">Aspiring IT Technician</a>
 <h2>🖥 Networking Projects:</h2>
 
 - [Active Directory Lab using VM](https://github.com/ZaveryP/ActiveDirectoryLab)
