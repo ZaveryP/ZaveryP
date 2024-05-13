@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zavery! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Zavery! <br/><a href="https://github.com/ZaveryP">IT Enthusiast</a>, <a href="https://www.linkedin.com/in//">Aspiring IT Technician</a>, <a href="https://www.youtube.com/">YouTube Documentor</a></h1>
 
 <h2>🖥 Networking Projects:</h2>
 
