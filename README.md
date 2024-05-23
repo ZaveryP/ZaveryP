@@ -3,10 +3,6 @@
 
 - [Active Directory Lab using VM](https://github.com/ZaveryP/ActiveDirectoryLab)
 
-<h2>📺 YouTube Videos</h2>
-
-- [Active Directory Lab using VM](https://github.com/ZaveryP/LABURL)
-
 <h2>📃 Certifications</h2>
 
 - [CompTIA A+](https://github.com/ZaveryP/LABURL)
